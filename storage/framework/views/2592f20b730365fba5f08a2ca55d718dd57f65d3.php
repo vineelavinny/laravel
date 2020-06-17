@@ -1,0 +1,1 @@
+<h1><?php echo e($var); ?></h1><?php /**PATH C:\Users\rajul\larproject-1\resources\views/hello.blade.php ENDPATH**/ ?>
